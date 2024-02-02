@@ -2,7 +2,7 @@ import { Component, Pipe, PipeTransform } from '@angular/core';
 import { CommonModule } from '@angular/common';
 import { RouterOutlet } from '@angular/router';
 import { FormsModule } from '@angular/forms';
-import { ExponentialStrengthPipe } from './prueba.pipe';
+import { ExponentialStrengthPipe } from './exponential.pipe';
 
 @Component({
   selector: 'app-root',
